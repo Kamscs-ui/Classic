@@ -28,11 +28,11 @@ body{
 	 width:15%;
  }
  .photo{
-	 width:15%;
+	 width:25%;
 	 padding:1%;
  }
  .photo img{
-	 width:150%;
+	 width:100%;
 	  border-radius:15%;
 	  box-shadow:5px 2px 5px rgba(0,0,0,5);
  }
@@ -45,7 +45,7 @@ body{
  }
  p{
 	 text-shadow:5px 2px 5px rgba(0,0,0,5);
-	 font-size:100%;
+	 font-size:150%;
  }
  .bigletter{
 	 color:red;
@@ -60,11 +60,14 @@ body{
 	 width:15%;
  }
  .vido{
-	 width:15%;
-	 border:solid;
+	 width:25%;
+	 border:1px solid #CCC;
 	 background-color:grey;
+	 padding:1%;
+	 
  }
  .vido video{
-	 width:150%;
-	  border-radius:15%;
+	 width:100%;
+	 border-radius:15%;
+	 
  }
